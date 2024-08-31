@@ -129,5 +129,15 @@ syntax :- <!-- comment here -->
 4. can be resized using width and height 
 5. Self- closing, does not require an end tag
 
+## 2.5 video Tag
+
+1. Embeds video files ona page
+2. uses src attribute for video URL
+3. support multiple formats like MP4, WebM
+4. Allows for built-in controls via attributes like autoplay ,controls,loop
+
+
+
+
 
 

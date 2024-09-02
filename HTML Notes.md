@@ -144,6 +144,17 @@ syntax :- <!-- comment here -->
 4. Supports target attribute to control link behavior
 git 
 
+## 2.7 bold/Italic/Underline /strikethrough
+
+1. <b> makes text bold
+2. <i> makes text italic
+3. <u> underlines text
+4. <s> or <strike> applies strikethrough
+5. Primarily used for text styling and emphasis
+
+
+## 2.8 pre Tag
+
 
 
 

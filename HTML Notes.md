@@ -136,6 +136,14 @@ syntax :- <!-- comment here -->
 3. support multiple formats like MP4, WebM
 4. Allows for built-in controls via attributes like autoplay ,controls,loop
 
+## 2.6 Anchor tag
+
+1. Used for creating hyperliks
+2. Reqired href attribute for URL
+3. Can link to external sites or internal pages
+4. Supports target attribute to control link behavior
+git 
+
 
 
 

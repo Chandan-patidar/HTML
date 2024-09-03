@@ -17,6 +17,7 @@
 4. HTML
 5. CSS
 6. JS
+
 # 2. Basic of HTML
 
 ## 2.1 What are tag
@@ -52,6 +53,7 @@ syntax :- <!-- comment here -->
 
 ![](image.png)
 
+-----------------------------------------------------------
 
 # LEVEL 2 MUST -USE HTML TAG
 
@@ -74,7 +76,7 @@ syntax :- <!-- comment here -->
 ## 3. Character Entity Reference
 1. What are Character Entity References
 
-## 1.1 what are HTML attributes?
+### 1.1 what are HTML attributes?
 
 ![](attributes.png)
 
@@ -86,7 +88,7 @@ syntax :- <!-- comment here -->
 4. Use name=value format
 5. Can be single or multiple per element
 
-## 1.2 id property
+### 1.2 id property
 
 ● Unique Identifier: Each id should be unique within a page.
 
@@ -103,7 +105,7 @@ syntax :- <!-- comment here -->
 3. <h1> is most important, <h6> is least
 4. Helps is structuring content
 
-## 2.2 paragraph Tag
+### 2.2 paragraph Tag
 
 1.used for defining paragraph
 2.Enclosed within <p> and </p> tags
@@ -111,17 +113,17 @@ syntax :- <!-- comment here -->
 4. Text wraps to next line inside tag
 5. common in text -heavy content 
 
-## 2.3 <BR> tag
+2.3 <BR> tag
 
 1. <br> add a line break within text
 2. <br> is empty , no closing tag needed
 3. <br> and <br> are both valid
 
-## 2.3 <HR> tag 
+2.3 <HR> tag 
 1. <hr> creates a horizontal rule or line 
 2. <hr> also empty, acts as a divider
 
-## 2.4 Image Tag
+### 2.4 Image Tag
 
 1. used to embed images
 2. Utilizes the src attribute for image url
@@ -129,14 +131,14 @@ syntax :- <!-- comment here -->
 4. can be resized using width and height 
 5. Self- closing, does not require an end tag
 
-## 2.5 video Tag
+### 2.5 video Tag
 
 1. Embeds video files ona page
 2. uses src attribute for video URL
 3. support multiple formats like MP4, WebM
 4. Allows for built-in controls via attributes like autoplay ,controls,loop
 
-## 2.6 Anchor tag
+ ### 2.6 Anchor tag
 
 1. Used for creating hyperliks
 2. Reqired href attribute for URL
@@ -153,19 +155,51 @@ git
 5. Primarily used for text styling and emphasis
 
 
-## 2.8 pre Tag
+### 2.8 pre Tag
 
 1. preserves text formatting
 2. Maintain whitespaces and line breaks
 3. useful for diplaying code 
 4. Enclosed within <pre> and </pre> tags
 
-## 2.9 Big / Small tag
+### 2.9 Big / Small tag
 
 1. <big> increases text size
 2. <small> decreses text size 
 3. Less common due to CSS alternatives
 
+## 2.10 Superscript / subscript tag
+ 1. <sup> makes text superscript
+ 2. <sub> make text subscript
+ 3. used for mathematical equations , foot notes
+ 4. Does not change font size
 
 
+## 3. CHaracter Entity Reference
 
+1. used to display reserved oe special character
+2. Syntax often  with & and ends with ; (eg :- &amp: for &)
+
+#  LEVEL 3  BROWSER TOLS
+
+## 1. BrowserTools
+1. ViewPageSource 2. InspectElement
+3. HTMLwithoutCSS
+
+## 2. ResponsiveDesign
+
+1. Differentscreensize
+
+## 3. LiveEditCode
+1. LiveeditHTML
+2. LiveeditCSS
+3. LiveeditJS
+4. Changesonlyhappeningatclient
+
+## 4. ValidatingWebpages
+1. Usingvalidator.w3.org
+
+
+## 1.Brower Tools
+
+### 1.1 view page souce

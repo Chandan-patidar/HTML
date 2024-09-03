@@ -155,7 +155,16 @@ git
 
 ## 2.8 pre Tag
 
+1. preserves text formatting
+2. Maintain whitespaces and line breaks
+3. useful for diplaying code 
+4. Enclosed within <pre> and </pre> tags
 
+## 2.9 Big / Small tag
+
+1. <big> increases text size
+2. <small> decreses text size 
+3. Less common due to CSS alternatives
 
 
 

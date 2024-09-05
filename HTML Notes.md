@@ -155,14 +155,14 @@ git
 5. Primarily used for text styling and emphasis
 
 
-### 2.8 pre Tag
+## 2.8 pre Tag
 
 1. preserves text formatting
 2. Maintain whitespaces and line breaks
 3. useful for diplaying code 
 4. Enclosed within <pre> and </pre> tags
 
-### 2.9 Big / Small tag
+## 2.9 Big / Small tag
 
 1. <big> increases text size
 2. <small> decreses text size 
@@ -180,10 +180,13 @@ git
 1. used to display reserved oe special character
 2. Syntax often  with & and ends with ; (eg :- &amp: for &)
 
+------------------------------------------------------------------------------
+
 #  LEVEL 3  BROWSER TOLS
 
 ## 1. BrowserTools
-1. ViewPageSource 2. InspectElement
+1. ViewPageSource 
+2. InspectElement
 3. HTMLwithoutCSS
 
 ## 2. ResponsiveDesign
@@ -200,6 +203,39 @@ git
 1. Usingvalidator.w3.org
 
 
-## 1.Brower Tools
 
-### 1.1 view page souce
+## 1. BrowserTools
+
+ ## 1.1  View Page Source   
+
+ 1. Diplay raw html CSS 
+ 2. usefull for debugging and learning
+ 3. shows external file like javascript links
+
+ ## 1.2  Inspect Element
+
+1. Allow real-time of HTML/CSS
+2. Usefull for debugging and testing
+3. Show element hierarchy and layout
+4. Inckudes console for javascript
+5. Highlight selected elements on page
+
+ ## 1.3 HTML without CSS
+
+ 1. 
+
+
+
+ 
+## 2.3 ResponsiveDesign
+
+1. Differentscreensize
+
+## 3. LiveEditCode
+1. LiveeditHTML
+2. LiveeditCSS
+3. LiveeditJS
+4. Changesonlyhappeningatclient
+
+## 4. ValidatingWebpages
+

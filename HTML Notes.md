@@ -221,15 +221,15 @@ git
 5. Highlight selected elements on page
 
  ## 1.3 HTML without CSS
+  
 
- 1. 
+## 2. Responsive Design
 
-
-
+ ## 2.1 Differentscreensize
  
-## 2.3 ResponsiveDesign
+ 1. Adapts layout for different Screen sizes
 
-1. Differentscreensize
+
 
 ## 3. LiveEditCode
 1. LiveeditHTML

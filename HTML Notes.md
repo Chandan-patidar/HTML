@@ -228,13 +228,20 @@ git
  ## 2.1 Differentscreensize
  
  1. Adapts layout for different Screen sizes
-
+ 2. Flexiable layouts
+ 3. Optimizes images and assets
+ 4. Enhances user experience on moblie and desktop
 
 
 ## 3. LiveEditCode
-1. LiveeditHTML
-2. LiveeditCSS
-3. LiveeditJS
+
+## 3.1 Live edit HTML
+  1.changed subcriber count
+
+## 3.2 Live edit CSS'
+ 1.changed channel Name colour
+
+## 3.3 LiveeditJS
 4. Changesonlyhappeningatclient
 
 ## 4. ValidatingWebpages

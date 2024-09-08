@@ -335,6 +335,11 @@ navigation or footer.
 
 
 ## 2.3 Footer Tag
+1. Purpose : for footer content like extrainfo or link.
+2. Semantic: provides meaning to enclosed content.
+3. Location : Typing at the vootom of pages or section.
+4. Content : includes copyright , contact info  and  social links 
+5. Multiple instances : can be used more than onces on a pages
 
 ## 2.3 Folder Structure
 1. Recommended Folder structure

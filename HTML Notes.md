@@ -304,7 +304,22 @@ git
 4. Multiple Instances : Can be used more than once on a pages  within different  section 
 
 ## 2.2 Main Tag
-    1. Section Tag
+
+1.purpose: Encloser the primary of a webpages.
+2.Semantic : Adds eaning, indicating the main content area.
+3.unique: Should appear only onces per page.
+3.Accessibility : Helps screen readers indentify key content.
+4.Not for Sidebars: Excludes content repeated across multiple pages like side
+navigation or footer.
+    
+    
+## 2.2.1 Section Tag
+1.purpose : Groups related content in a distinct  section
+2.Semantic : Adds structure and  meaning 
+3.Headers: Often used with  a heading <h1> to <h6> to indication
+4.Nested : Can be nested within other <section> or <article> tags
+
+
     2. Article Tag
     3. Aside Tag
     3. Footer Tag

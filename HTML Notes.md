@@ -242,7 +242,78 @@ git
  1.changed channel Name colour
 
 ## 3.3 LiveeditJS
-4. Changesonlyhappeningatclient
 
-## 4. ValidatingWebpages
+## 4.3Changes only happening at client
+1. changes made are temporary
+2. Affect only the current session 
+3. Not saved to the server
+4. Reset upon page reload 
+5. Useful for testing, not permanent fixes
 
+## 4. Validating Webpages
+1. Ensures HTML adheres to standards
+2. Minimizes cross- broser issues 
+3. Helps in achieving better SEO results
+4. Easier to debug and 
+5. Optimizes performaces reducing parsing 
+
+---------------------------------------------------------
+
+
+# LEVEL 4 HTML and project Structure
+
+## 1. Semantic Tags
+ 1. Semantic / Non-Semantic Tags
+
+## 2. Body Tags
+1. Header Tag
+2. Main Tag
+    1. Section Tag
+    2. Article Tag
+    3. Aside Tag
+    3. Footer Tag
+## 3. Folder Structure
+1. Recommended Folder structure
+
+## 4. More Tags
+ 1. Navigation tags
+ 2. Block / Inline Elements
+ 3. Div tags
+ 4. Span Tags
+
+
+
+ ## 1. Semantic Tags
+ ## 1.1 Semantic / Non-Semantic Tags
+
+         Semantic tag                                |      Non semantic Tags
+ ----------------------------------------------------|-------------------------------------        
+1.Meaningful : Describe content.                     |   1. Generic : No specicic meaning
+2.SEO : Good for search engines.                     |   2. NO SEO : Not SEO-friendly
+3.Accessibility : Useful for screeen resaders.       |   3. For Styling : Used for layout
+4.Example : <header>, <footer>, <article>, <nav>     |   4. Examples: <div>, <i>,<b>,<span>
+<section >.                                          |
+                                                     |
+
+## 2. Body Tags
+
+## 2.1 Header Tag
+1. purpose : Used to contain introductory content or navigation links.
+2. Semantic :- It's a semantic tags. providing meaning to the enclosed contain
+3. Location: Commonly found at the top web pages, but can also appers within  <article>, or <section>tags.
+4. Multiple Instances : Can be used more than once on a pages  within different  section 
+
+## 2.2 Main Tag
+    1. Section Tag
+    2. Article Tag
+    3. Aside Tag
+    3. Footer Tag
+
+## 2.3 Folder Structure
+1. Recommended Folder structure
+
+## 2.4 More Tags
+ 1. Navigation tags
+ 2. Block / Inline Elements
+ 3. Div tags
+ 4. Span Tags

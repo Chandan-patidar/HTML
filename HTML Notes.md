@@ -328,6 +328,11 @@ navigation or footer.
 4. Multiple Instances : can be used multiple times on the same pages
 
 ## 2.2.3  Aside Tag
+1. purpose: contain sidebar or supplementary content
+2. Semantic : indicates content tangentially related to main content 
+3. Not crucial : content is not essential to understanding the main content
+4. Examples : Could hold widgets, quotes , or ads.
+
 
 ## 2.3 Footer Tag
 

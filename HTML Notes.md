@@ -271,7 +271,9 @@ git
     1. Section Tag
     2. Article Tag
     3. Aside Tag
-    3. Footer Tag
+
+3. Footer Tag
+
 ## 3. Folder Structure
 1. Recommended Folder structure
 
@@ -314,15 +316,20 @@ navigation or footer.
     
     
 ## 2.2.1 Section Tag
-1.purpose : Groups related content in a distinct  section
-2.Semantic : Adds structure and  meaning 
-3.Headers: Often used with  a heading <h1> to <h6> to indication
-4.Nested : Can be nested within other <section> or <article> tags
+1. purpose : Groups related content in a distinct  section
+2. Semantic : Adds structure and  meaning 
+3. Headers: Often used with  a heading <h1> to <h6> to indication
+4. Nested : Can be nested within other <section> or <article> tags
 
+## 2.2.2 Article Tag
+1. Encloses content that stands alone , like  a blog post or new
+2. Semantic : provides contextual meaning
+3. independence : Content should make sense even if taken out of th page context
+4. Multiple Instances : can be used multiple times on the same pages
 
-    2. Article Tag
-    3. Aside Tag
-    3. Footer Tag
+## 2.2.3  Aside Tag
+
+## 2.3 Footer Tag
 
 ## 2.3 Folder Structure
 1. Recommended Folder structure

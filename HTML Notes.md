@@ -387,3 +387,7 @@ Inline Elements
  4. Flexibility : highly versatile and can be customized using classes
 
  ## 4.4 Span Tags
+ 1. Purpose :used for inline elements ti style or manipulate a portion of text
+ 2. non-Semantic : Does't add  specific meaning to the enclose text
+ 3. Stying : commonly used for changing color ,font, or adding effects
+ 4. Inline Nature : Doesn't break text flow or create a new block- level

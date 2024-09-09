@@ -342,10 +342,29 @@ navigation or footer.
 5. Multiple instances : can be used more than onces on a pages
 
 ## 2.3 Folder Structure
-1. Recommended Folder structure
 
-## 2.4 More Tags
- 1. Navigation tags
- 2. Block / Inline Elements
- 3. Div tags
- 4. Span Tags
+## 2.3.1  Recommended Folder structure
+1. Root Directory :- main folder containing all wedsites files.
+2. HTML files : Store main .html files at the root level for easy access.
+3. CSS Folder : create a css / folder for  cascading style sheets.
+4. JS Folder : use a scripts / folder for JavaScript files.
+5. images folder : Store images in an images/ or images/
+folder.
+6. assest : other  like fonts can go in  assets /folder
+7. Sub- directories : for multi- page  websites , uses folder to categorize content.d
+
+
+## 4 More Tags
+
+ ## 4.1 Navigation tags
+
+ 1. purpose : Enclose navigation links or menus
+ 2. Semantic : signals  that the content meant for navigating the site 
+ 3. Common content : Usually contain lists <ul>,<ol> for links <a>
+ 4. Accessibility : aids screen readers in indentifying site navigation.
+ 
+ ## 4.2 Block / Inline Elements
+
+ ## 4.3 Div tags
+
+ ## 4.4 Span Tags

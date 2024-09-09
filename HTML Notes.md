@@ -362,9 +362,28 @@ folder.
  2. Semantic : signals  that the content meant for navigating the site 
  3. Common content : Usually contain lists <ul>,<ol> for links <a>
  4. Accessibility : aids screen readers in indentifying site navigation.
- 
+
  ## 4.2 Block / Inline Elements
+ Block Elements 
+ 1. New linw : start on new line.
+ 2. Full width : Take up all horizontal
+ 3. Stylin:  Can have Margins and  padding
+ 4. size : width and height can be set
+ 5. Examples : <div>, <p>,<h1>,<ul>,<li>
+
+Inline Elements
+1. Flow : Stay in line with text.
+2. width : just as wide as the content
+3. No Break : No New Line Between Elements
+4. Limited styling : Cant'
+5. Examples : <spam>,<a>,<strong>,<em>,<img>.
+
 
  ## 4.3 Div tags
+
+ 1. purpose : acts as a container for other HTML elements.
+ 2. Non - semantic : Does't provide interent meaning to enclose content
+ 3. Styling : commonly used for layout and styling via CSS
+ 4. Flexibility : highly versatile and can be customized using classes
 
  ## 4.4 Span Tags

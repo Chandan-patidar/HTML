@@ -426,7 +426,24 @@ Inline Elements
 
 1.2 Types of Ordered Lists
 
+Oresered Lists
+A. Numeric: default type, (1,2,3,....)
+   Attribute : type = "1"
+B. Upper Letter : (A,B,C....)
+    Attribute :type ="A"
+c. Lowercase Letter: (a,b,c,..)
+    Attribute : type = "a"
+D. Uppercase Roman :(I,II,III,...)
+    attribute :type = "I"
+E. Lowercase Roman : (i,ii,iii...)
+    Attributes : type = " i"
+
+
 1.3. Unordered Lists
+1. Used for lis where the order of items doesn't matter
+2. Default : Items sre usually bulleted.
+3. Nesting : Can be Nested within other lists.
+
 
 ## 2. Table Tag
 1. <tr>, <td>, <th> tags

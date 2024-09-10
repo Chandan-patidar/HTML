@@ -447,6 +447,11 @@ E. Lowercase Roman : (i,ii,iii...)
 
 ## 2. Table Tag
 1. <tr>, <td>, <th> tags
+a. <tr> Table Row : Used to define a row in an HTML table 
+b. <th> Table Header : used for header cells within a row .
+    Text is bold and centered by default.
+c. <id> Table Data : This holds the actual data
+
 2. Captions
 3. Col spans
 

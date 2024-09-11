@@ -453,14 +453,29 @@ b. <th> Table Header : used for header cells within a row .
 c. <id> Table Data : This holds the actual data
 
 2. Captions
+a. Purpose : Provide a title or description for a table 
+b. Placement :Must be inserted immediately after the <table> opening
+c. Alignment : Centered above the  table by default
+d.Accessibility : Helps screen readers understand the tabl's
+
 3. Col spans
+a. Attributes : Uses the colspan attributes in <td> or <th> tags
+b. purpose : Must be inserted immediately after the <table> opening
+c. Alignment : Takes the space of the specified number of columns
+d. Layout : useful combining cells create complex table layouts.
 
 ## 3. Forms
-1. Input tag
+ ## 3.1 Input tag
+
+a. Purpose : Used within a <form> element to collect user input
+b. Self-closing : The <input> tag is self -closing ; doesn't require a closing tag.
+c. Attributes : Common attributes are name, value placeholder,and required
+
+
 2. Action Attributes
 3. Name and Value Property
 4. Label Tag
 5. Exploring Types
 
 ## 4. iFrame Tag
- 1. Using iFrames
+ 1. Using iFrames 

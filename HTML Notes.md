@@ -473,6 +473,8 @@ c. Attributes : Common attributes are name, value placeholder,and required
 
 
 2. Action Attributes
+1.Purpose :
+
 3. Name and Value Property
 4. Label Tag
 5. Exploring Types

@@ -472,11 +472,24 @@ b. Self-closing : The <input> tag is self -closing ; doesn't require a closing t
 c. Attributes : Common attributes are name, value placeholder,and required
 
 
-2. Action Attributes
-1.Purpose :
+## 3.2 Action Attributes
+a. Purpose : Specifies the url to which the from data should be sent when submitted. 
+b. Default: If not specified , the form will be summitted to the current page's URL. 
+c. Server - side : Usually points to  a server - side scrpit (Like PHP ,Python etc. ) that processes the form data
 
-3. Name and Value Property
-4. Label Tag
+
+
+## 3.3 Name and Value Property
+
+a. 'name ' Property : 1. ID for Data :- Indentifies from elements when submitting.
+                      2. Unique :-  Should  be unique to each element for clarity.
+
+b. 'Value ' Property : 1. Default Data :- Sets inital value for input elements.
+                       2. Sent to Server :- This is the data sent when form  is submitted.             
+
+
+## 3.4 Label Tag
+
 5. Exploring Types
 
 ## 4. iFrame Tag

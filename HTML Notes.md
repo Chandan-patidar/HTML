@@ -490,7 +490,15 @@ b. 'Value ' Property : 1. Default Data :- Sets inital value for input elements.
 
 ## 3.4 Label Tag
 
-5. Exploring Types
+ a. Purpose : Adds a text description to from elements.
+ b. for attribute : COnnects the label to a speciocic form elemts Using the elements id .
+ c. Accessibility : Makes the form more accessible .
+ d. Readability : Enhances from readability and usability.
+
+## 3.5 Exploring Types
+
+a. 
+
 
 ## 4. iFrame Tag
  1. Using iFrames 

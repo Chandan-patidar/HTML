@@ -502,3 +502,5 @@ a.
 
 ## 4. iFrame Tag
  1. Using iFrames 
+
+ a.Embedded content : allows you to embed another webpage or multiple scontent within  a wedpage
